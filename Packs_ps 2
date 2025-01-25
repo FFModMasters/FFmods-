@@ -44,3 +44,31 @@
     </script>
 </body>
 </html>
+<div class="game-list">
+    <div class="game-item">
+        <h3>Jogo 1</h3>
+        <p>Descrição do Jogo 1.</p>
+    </div>
+    <div class="game-item">
+        <h3>Jogo 2</h3>
+        <p>Descrição do Jogo 2.</p>
+    </div>
+    <div class="game-item">
+        <h3>Jogo 3</h3>
+        <p>Descrição do Jogo 3.</p>
+    </div>
+    <!-- Adicione mais jogos aqui -->
+    <div class="game-item">
+        <h3>Jogo 4</h3>
+        <p>Descrição do Jogo 4.</p>
+    </div>
+    <div class="game-item">
+        <h3>Jogo 5</h3>
+        <p>Descrição do Jogo 5.</p>
+    </div>
+    <div class="game-item">
+        <h3>Jogo 6</h3>
+        <p>Descrição do Jogo 6.</p>
+    </div>
+    <!-- Continue adicionando mais jogos -->
+</div>
